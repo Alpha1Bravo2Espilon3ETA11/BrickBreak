@@ -1,8 +1,7 @@
 /*
- * Author: Mr. M
- * Date: 12/02/24
- * Description: Boostrap class to set up the screen and widgets. Nothing exciting going on here.
- * Take a look at BrickBreak.java for all the exciting stuff!
+ * Author: Diego Aldworth
+ * Date: 1/09/26
+ * Description: This is the driver program for the BrickBreak game featuring a classic arcade feel.
  */
 package com.BrickBreak;
 import java.awt.*;

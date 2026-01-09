@@ -1,8 +1,7 @@
 /*
- * Author: Mr. M
- * Date: 12/02/24
- * Description: This component is the non-moving bricks which the user will need to eliminate by hitting them
- * with the ball. The bricks will be drawn in a static position and will have varying colors based on their remaining HP. (white - blue - red)
+ * Author: Diego Aldworth
+ * Date: 1/09/26
+ * Description: This is the driver program for the BrickBreak game featuring a classic arcade feel.
  */
 
 package com.BrickBreak;
