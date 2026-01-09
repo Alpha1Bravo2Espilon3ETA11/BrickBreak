@@ -1,9 +1,7 @@
 /*
- * Author: Mr. M
- * Date: 12/02/24
+ * Author: Diego Aldworth
+ * Date: 1/09/26
  * Description: This is the driver program for the BrickBreak game featuring a classic arcade feel.
- * This project requires the Ball.java, Paddle.java and Brick.java files to operate. Although Brick 
- * is complete the other two are still in production. 
  */
 
 package com.BrickBreak;
