@@ -1,3 +1,8 @@
+/*
+ * Author: Diego Aldworth
+ * Date: 1/09/26
+ * Description: This is the driver for the  paddle feature of the retro game brick break
+ */
 package com.BrickBreak;
 
 import java.awt.Graphics;

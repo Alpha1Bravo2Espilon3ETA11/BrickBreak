@@ -1,8 +1,6 @@
-/*
- * Author: Diego Aldworth
- * Date: 1/09/26
- * Description: This is the driver program for the BrickBreak game featuring a classic arcade feel.
- */
+// Author: Diego Aldworth
+// Date: 1/09/26
+// Description: This is the driver program for the BrickBreak game featuring a classic arcade feel.
 package com.BrickBreak;
 import java.awt.*;
 import java.awt.event.*;

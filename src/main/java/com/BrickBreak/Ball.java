@@ -1,3 +1,8 @@
+//
+// Author: Diego Aldworth
+// Date: 1/09/26
+// Description: This is the maain driver for the ball feature of the 
+//
 package com.BrickBreak;
 
 import java.awt.Graphics;
